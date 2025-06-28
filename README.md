@@ -13,6 +13,15 @@ Uma pequena aplicação que consulta a [Agify API](https://agify.io) e estima a 
 - Query string sincronizada com URL
 - CSS customizado, sem frameworks
 
+## 💡 Diferenciais implementados
+
+- Hook de debounce reutilizável
+- Animações suaves
+- Google Fonts (Inter)
+- Código modular e comentado
+- Layout responsivo
+- Boas práticas de acessibilidade
+
 ## 🚀 Como rodar
 
 1. Clone o repo:
