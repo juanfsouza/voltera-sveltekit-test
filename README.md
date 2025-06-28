@@ -19,4 +19,13 @@ Uma pequena aplicação que consulta a [Agify API](https://agify.io) e estima a 
    ```bash
    git clone https://github.com/juanfsouza/voltera-sveltekit-test.git
    ```
-   
+
+2. Install:
+   ```bash
+   npm install
+   ```
+
+3. Rodar projeto:
+   ```bash
+   npm run dev
+   ```
