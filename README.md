@@ -48,4 +48,3 @@ Uma aplicação web para estimar a idade de uma pessoa com base no primeiro nome
    npm install
 
    npm run dev
-```
