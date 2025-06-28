@@ -33,6 +33,7 @@ Uma aplicação web para estimar a idade de uma pessoa com base no primeiro nome
 ### 🧩 **Tecnologias**
 
 - [SvelteKit](https://kit.svelte.dev/) (Svelte 4 ou 5)
+- Typescript
 - Vite para build e dev server
 - HTML5 + CSS puro
 - API: [Agify.io](https://agify.io)
