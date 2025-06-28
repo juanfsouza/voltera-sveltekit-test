@@ -41,6 +41,11 @@ Uma aplicação web para estimar a idade de uma pessoa com base no primeiro nome
 
 ## ⚙️ **Como rodar localmente**
 
-1. Clone este repositório:
+1. Clone este repositório e iniciar:
    ```bash
-   git clone https://github.com/seu-usuario/voltera-frontend-test.git
+   git clone https://github.com/juanfsouza/voltera-frontend-test.git
+
+   npm install
+
+   npm run dev
+```
