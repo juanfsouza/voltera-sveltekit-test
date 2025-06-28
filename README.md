@@ -4,13 +4,13 @@ Bem-vindo! 🚀 Este repositório é minha solução para o desafio técnico da 
 
 ---
 
-## 📌 **Sobre o projeto**
+### 📌 **Sobre o projeto**
 
 Uma aplicação web para estimar a idade de uma pessoa com base no primeiro nome, utilizando a **API gratuita [Agify.io](https://agify.io)**.
 
 ---
 
-## ✅ **Funcionalidades**
+### ✅ **Funcionalidades**
 
 - 🔎 **Input em tempo real** com debounce (evita consultas excessivas)
 - 🌐 **Consulta via função `load()`** no SvelteKit — SSR seguro
@@ -24,13 +24,13 @@ Uma aplicação web para estimar a idade de uma pessoa com base no primeiro nome
 
 ---
 
-## 📸 **Preview**
+### 📸 **Preview**
 
 ![Screenshot_1](https://github.com/user-attachments/assets/79055fc4-9ee7-48cc-a93c-53caa64ef09c)
 
 ---
 
-## 🧩 **Tecnologias**
+### 🧩 **Tecnologias**
 
 - [SvelteKit](https://kit.svelte.dev/) (Svelte 4 ou 5)
 - Vite para build e dev server
@@ -39,7 +39,7 @@ Uma aplicação web para estimar a idade de uma pessoa com base no primeiro nome
 
 ---
 
-## ⚙️ **Como rodar localmente**
+### ⚙️ **Como rodar localmente**
 
 1. Clone este repositório e iniciar:
    ```bash
